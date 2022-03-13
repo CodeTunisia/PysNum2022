@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Physique Numérique avec Python
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-yellow.svg)](https://www.python.org/)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-red.svg)](http://commonmark.org)
+[![made-with-jupyter](https://img.shields.io/badge/Made%20with-jupyter-orange.svg)](https://jupyter.org)
 
-You can use the [editor on GitHub](https://github.com/CodeTunisia/PysNum2022/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cette formation a pour but l'initiation: des étudiants en mastère, des doctorants et éventuellement des enseignants, à l'utilisation de Python pour apprendre à développer des codes interfacés et adaptés à leurs projets d'étude.
 
-### Markdown
+<center><h4>Société Tunisienne de Physique ; 15-16-17  mars 2021</h4></center>
+<center><h4>Faculté des Sciences de Tunis</h4></center>
+ <center>
+ <img src="logo_python.png" width="200"
+     height="100">
+</center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Formateurs
 
-```markdown
-Syntax highlighted code block
+* Dr. Ahmed Ammar (1,2)
 
-# Header 1
-## Header 2
-### Header 3
+1. Faculé des Sciences de Tunis, Université de Tunis El Manar.
+2. Institut Préparatoire aux Études Scientifiques et Techniques, Université de Carthage.
 
-- Bulleted
-- List
+# Programme
+* [Présentation d'ouverture](https://astrax.github.io/PhysNum2021/presentations/Ecole_PhysNum_21.pdf)
+* [Presentation des ateliers](https://astrax.github.io/PhysNum2021/presentations/main.pdf)
 
-1. Numbered
-2. List
+## Atelier I : 15 mars 2021
 
-**Bold** and _Italic_ and `Code` text
+* Installation de l'environnement de progrmmation Anaconda
+* Implémentation des premiers codes Python (Spyder)
+* Introduction aux librairies scientifiques (Numpy et Matplotlib)
+* Exercices
 
-[Link](url) and ![Image](src)
-```
+**Scripts :** [J1_ProjetPi](https://github.com/astrax/PhysNum2021/tree/main/J1_ProjetPi)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Atelier II : 16 mars 2021
 
-### Jekyll Themes
+* Intégration numérique
+* Exercices
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodeTunisia/PysNum2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Scripts :** [J2_ProjetIntegral](https://github.com/astrax/PhysNum2021/tree/main/J2_ProjetIntegral)
 
-### Support or Contact
+**Notebook :** [Débuter avec les notebooks Python](https://colab.research.google.com/github/astrax/PhysNum2021/blob/main/J2_Notebook_sinc/ProjetSinc.ipynb)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Atelier III : 17 mars 2021
+
+* Simulation d'expériences d'optique ondulatoire
+* Exercices
+
+**Notebook :** [Un aperçu sur l'utilisation de Python pour simuler des expériences de physique](https://colab.research.google.com/github/astrax/PhysNum2021/blob/main/J3_ProjetOptique/optique.ipynb)
