@@ -5,9 +5,8 @@
 [![made-with-jupyter](https://img.shields.io/badge/Made%20with-jupyter-orange.svg)](https://jupyter.org)
 
 
-Cette formation a pour but l'initiation: des étudiants en mastère, des doctorants et éventuellement des enseignants, à l'utilisation de Python pour apprendre à développer des codes interfacés et adaptés à leurs projets d'étude.
 
-<center><h4>Société Tunisienne de Physique ; 15-16-17  mars 2021</h4></center>
+<center><h4>Société Tunisienne de Physique ; 14-15-16  mars 2022</h4></center>
 <center><h4>Faculté des Sciences de Tunis</h4></center>
  <center>
  <img src="logo_python.png" width="200"
@@ -22,30 +21,14 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 2. Institut Préparatoire aux Études Scientifiques et Techniques, Université de Carthage.
 
 # Programme
-* [Présentation d'ouverture](https://astrax.github.io/PhysNum2021/presentations/Ecole_PhysNum_21.pdf)
-* [Presentation des ateliers](https://astrax.github.io/PhysNum2021/presentations/main.pdf)
 
-## Atelier I : 15 mars 2021
+## Atelier I : 14 mars 2022
 
-* Installation de l'environnement de progrmmation Anaconda
-* Implémentation des premiers codes Python (Spyder)
 * Introduction aux librairies scientifiques (Numpy et Matplotlib)
 * Exercices
 
-**Scripts :** [J1_ProjetPi](https://github.com/astrax/PhysNum2021/tree/main/J1_ProjetPi)
 
-## Atelier II : 16 mars 2021
+## Atelier II : 15 mars 2022
 
-* Intégration numérique
-* Exercices
 
-**Scripts :** [J2_ProjetIntegral](https://github.com/astrax/PhysNum2021/tree/main/J2_ProjetIntegral)
-
-**Notebook :** [Débuter avec les notebooks Python](https://colab.research.google.com/github/astrax/PhysNum2021/blob/main/J2_Notebook_sinc/ProjetSinc.ipynb)
-
-## Atelier III : 17 mars 2021
-
-* Simulation d'expériences d'optique ondulatoire
-* Exercices
-
-**Notebook :** [Un aperçu sur l'utilisation de Python pour simuler des expériences de physique](https://colab.research.google.com/github/astrax/PhysNum2021/blob/main/J3_ProjetOptique/optique.ipynb)
+## Atelier III : 16 mars 2022
