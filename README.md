@@ -22,13 +22,13 @@
 
 # Programme
 
-## Atelier I : 14 mars 2022
+## Jour I : 14 mars 2022
 
 * Introduction aux librairies scientifiques (Numpy et Matplotlib)
 * Exercices
 
 
-## Atelier II : 15 mars 2022
+## Jour II : 15 mars 2022
 
 
-## Atelier III : 16 mars 2022
+## Jour III : 16 mars 2022
