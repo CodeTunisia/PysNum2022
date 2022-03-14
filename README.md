@@ -17,8 +17,8 @@
 
 ## Jour I : 14 mars 2022
 
-* Introduction aux librairies scientifiques (Numpy et Matplotlib)
-* Exercices
+* [Introduction aux librairies scientifiques (Numpy et Matplotlib)](https://colab.research.google.com/github/CodeTunisia/PysNum2022/blob/main/jour1/numpy%26matplotlib.ipynb)
+* [Exercices](https://colab.research.google.com/github/CodeTunisia/PysNum2022/blob/main/jour1/Exercices.ipynb)
 
 
 ## Jour II : 15 mars 2022
