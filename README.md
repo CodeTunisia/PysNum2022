@@ -20,7 +20,7 @@
 * Implémentation des premiers codes Python (Spyder)
 * Exercices
 ### Jour II : 15 mars 2022
-* 
+*
 
 ### Jour III : 16 mars 2022
 *
@@ -32,6 +32,6 @@
 
 
 ### Jour II : 15 mars 2022
-* [Intégration numérique]()
+* [Intégration numérique](https://colab.research.google.com/github/CodeTunisia/PysNum2022/blob/main/jour2/integration.ipynb)
 
 ### Jour III : 16 mars 2022
