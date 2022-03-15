@@ -14,14 +14,24 @@
 </center>
 
 # Programme
+## Niveau débutant : Dr. Fehmi Khadri
+### Jour I : 14 mars 2022
+* Installation de l’environnement de programmation Anaconda
+* Implémentation des premiers codes Python (Spyder)
+* Exercices
+### Jour II : 15 mars 2022
+* 
 
-## Jour I : 14 mars 2022
+### Jour III : 16 mars 2022
+*
+## Niveau intermédiaire : Dr. Ahmed Ammar
+### Jour I : 14 mars 2022
 
 * [Introduction aux librairies scientifiques (Numpy et Matplotlib)](https://colab.research.google.com/github/CodeTunisia/PysNum2022/blob/main/jour1/numpy%26matplotlib.ipynb)
 * [Exercices](https://colab.research.google.com/github/CodeTunisia/PysNum2022/blob/main/jour1/Exercices.ipynb)
 
 
-## Jour II : 15 mars 2022
+### Jour II : 15 mars 2022
+* [Intégration numérique]()
 
-
-## Jour III : 16 mars 2022
+### Jour III : 16 mars 2022
