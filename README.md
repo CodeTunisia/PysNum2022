@@ -18,12 +18,19 @@
 ### Jour I : 14 mars 2022
 * Installation de l’environnement de programmation Anaconda
 * Implémentation des premiers codes Python (Spyder)
-* Exercices
+* [Présentation (PDF)](https://raw.githubusercontent.com/CodeTunisia/PysNum2022/main/Initiation/J1-Initiation/presentation.pdf)
+
 ### Jour II : 15 mars 2022
-*
+* [Projet PI DAY : Trouver une valeur approchée de PI](https://github.com/CodeTunisia/PysNum2022/tree/main/Initiation/J2-ProjectPi)
 
 ### Jour III : 16 mars 2022
-*
+* Lecture et écriture dans un fichier en Python
+* Représentation graphique 1D, 2D et 3D
+* Application : La fonction sinc et application en optique ondulatoire.
+* [Les scriptes Python](https://github.com/CodeTunisia/PysNum2022/tree/main/Initiation/J3-Sinc_Diffraction)
+
+---
+
 ## Niveau intermédiaire : Dr. Ahmed Ammar
 ### Jour I : 14 mars 2022
 
