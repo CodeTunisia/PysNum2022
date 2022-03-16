@@ -37,4 +37,4 @@
 ### Jour III : 16 mars 2022
 * [Résolution des équations différentielles ordinaires](https://colab.research.google.com/github/CodeTunisia/PysNum2022/blob/main/jour3/ODE.ipynb)
 ### Cours complet
-* [Physique numérique : Ahmed Ammar](https://github.com/CodeTunisia/PysNum2022/blob/main/jour3/cours%26TD_PhysiqueNumerique.pdf)
+* [Physique numérique : Ahmed Ammar](https://raw.githubusercontent.com/CodeTunisia/PysNum2022/main/jour3/cours%26TD_PhysiqueNumerique.pdf)
